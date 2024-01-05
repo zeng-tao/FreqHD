@@ -14,12 +14,12 @@ $ pip install -r requirements.txt
 
 ## How to run
 
-For the Spatial-temporal frequency analysis (STFA) module and the Multi-band complementary selection (MBC) module in the Freq-HD paper, the corresponding codes are located in drawpic.py and clipselection.py, respectively.
+For the Spatial-temporal frequency analysis (STFA) module and the Multi-band complementary selection (MBC) module in the Freq-HD paper, the corresponding codes are located in freq-hd.py and clipselection.py, respectively.
 
 Execute
 
 ```bash
-$ python drawpic.py
+$ python freq-hd.py
 ```
 
 to obtain the results of the STFA module and the selection outcomes of the Freq-HD method.
