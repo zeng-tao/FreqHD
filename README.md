@@ -12,6 +12,10 @@ Freq-HD: An Interpretable Frequency-based High-Dynamics Affective Clip Selection
 $ pip install -r requirements.txt
 ```
 
+## Data
+
+Sample data is stored in 'data/Happy0010', which is a sample from FERV39k that has undergone face detection and cropping. The sample can be changed by modifying the data path in 'freq-hd.py'.
+
 ## How to run
 
 For the Spatial-temporal frequency analysis (STFA) module and the Multi-band complementary selection (MBC) module in the Freq-HD paper, the corresponding codes are located in freq-hd.py and clipselection.py, respectively.
