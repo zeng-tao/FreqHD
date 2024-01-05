@@ -180,12 +180,3 @@ plt.legend()
 plt.xlabel("X") 
 plt.ylabel("Y") 
 plt.show()
-
-
-
-
-
-
-
-
-print("1")
